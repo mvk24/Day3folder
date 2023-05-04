@@ -156,13 +156,15 @@ header ul li a{
     width: 50%;
     float: left;
 }
-input{
+.contactright input{
     font-size: 22px;
     text-transform: uppercase;
     margin-bottom: 10px;
+    width: 400px;
+    height: 40px;
 }
 button{
-    width: 50%;
+    width: 100px;
     background-color: crimson;
     height: 40px;
     border: none;
